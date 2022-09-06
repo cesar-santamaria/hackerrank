@@ -12,3 +12,4 @@ function hurdleRace(k, height) {
       return height[0] - k
   }
 }
+//09:46:63

@@ -17,3 +17,5 @@ function angryProfessor(k, a) {
   }
   return "NO"
 }
+
+// 18:24.71

@@ -10,3 +10,5 @@ function minimumDistances(a) {
   }
   return min.length ? Math.min(...min) : -1
 }
+
+//10:14:00
